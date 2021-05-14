@@ -27,4 +27,3 @@
 - 🌱 I’m currently learning more about Data Structures and Algorithms.
 - 🤔 I’m looking for project collaborations.
 - 📫 How to reach me: [LinkedIn - @Rahul](https://www.linkedin.com/in/yashank18/)
-- 😄 Pronouns: He/His
