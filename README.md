@@ -9,6 +9,9 @@
 <a href="https://github.com/rahulgoyal911">
   <img align="left" alt="Rahul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://github.com/rahul-goyal911">
+  <img align="left" alt="Rahul's Github @smallcase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <a href="https://www.instagram.com/rahulgoyal911/">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -23,7 +26,7 @@
 
 
 
-- I'm currently working at [smallcase](https://smallcase.com) as a Backend Engineer.  
+- 💻 I'm currently working at [smallcase](https://smallcase.com) as a Backend Engineer.  
 - 🌱 I’m currently learning more about Data Structures and Algorithms.
 - 🤔 I’m looking for project collaborations.
 - 📫 How to reach me: [LinkedIn - @Rahul](https://www.linkedin.com/in/yashank18/)
